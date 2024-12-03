@@ -1,0 +1,6 @@
+{  
+ "backend-service-url": "https://be-submission-deploy-276433717466.asia-southeast1.run.app/",
+ "frontend-service-url": "https://submissionmlgc-yusuf-443611.as.r.appspot.com/",
+ "project-id": "submissionmlgc-yusuf-443611",
+ "bucket-name": "submission-ml-deploy"
+}
