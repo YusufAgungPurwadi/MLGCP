@@ -6,7 +6,7 @@ How to deploy machine learning for GCP
 
 ## Table of contents
 
-- [What is "serverless" computing?](#what-is-serverless-computing)
+- [Tampilan](#https://github.com/YusufAgungPurwadi/MLGCP-Api/blob/main/Tampilan.png)
 - [All in one solutions](#all-in-one-solutions)
 - [Hosting and code execution in the cloud](#hosting-and-code-execution-in-the-cloud)
 - [Isomorphic Engines](#isomorphic-engines)
