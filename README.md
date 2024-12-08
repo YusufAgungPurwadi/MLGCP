@@ -4,42 +4,12 @@
 
 How to deploy machine learning for GCP
 
-***“No server is easier to manage than no server”***
-
 ## Table of contents
 
 - [What is "serverless" computing?](#what-is-serverless-computing)
 - [All in one solutions](#all-in-one-solutions)
 - [Hosting and code execution in the cloud](#hosting-and-code-execution-in-the-cloud)
 - [Isomorphic Engines](#isomorphic-engines)
-- [Frameworks](#frameworks)
-- [Security](#security)
-- [CI/CD](#cicd)
-- [Cost calculators](#cost-calculators)
-- [Logging / Monitoring / Performance / Tracing](#logging--monitoring--performance--tracing)
-- [Authentication and authorization](#authentication-and-authorization)
-- [IAM](#iam)
-- [Payments](#payments)
-- [eCommerce](#ecommerce)
-- [Content Management Systems](#content-management-systems)
-- [Forms](#forms)
-- [Media management and File storage](#media-management-and-file-storage)
-- [Realtime](#realtime)
-- [Scheduling](#scheduling)
-- [Email sending, subscriptions and newsletters](#email-sending-subscriptions-and-newsletters)
-- [SMS sending](#sms-sending)
-- [Push notifications](#push-notifications)
-- [Databases](#databases)
-- [Others](#others)
-- [Related articles](#related-articles)
-- [Books](#books)
-- [Courses](#courses)
-- [Workshops](#workshops)
-- [Newsletters](#newsletters)
-- [AWS re:Invent videos](#aws-reinvent-videos)
-- [Videos from conferences](#videos-from-conferences)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## What is "serverless" computing?
 
