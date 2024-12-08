@@ -6,19 +6,20 @@ How to deploy machine learning for GCP
 
 ## Table of contents
 
-- [Tampilan](#https://github.com/YusufAgungPurwadi/MLGCP-Api/blob/main/Tampilan.png)
-- [All in one solutions](#all-in-one-solutions)
-- [Hosting and code execution in the cloud](#hosting-and-code-execution-in-the-cloud)
-- [Isomorphic Engines](#isomorphic-engines)
+- [Tampilan](#Tampilan)
+- [Backend](#Backend)
+- [Frontend](#Frontend)
+- [Data Test Submission](#Data-test-submission)
+- [Model Machine Learning](#Model-Machine-learning)
 
-## What is "serverless" computing?
+## Tampilan
 
 > The phrase “serverless” doesn’t mean servers are no longer involved. It simply means that developers no longer have to think "that much" about them. Computing resources get used as services without having to manage around physical capacities or limits.
 > Let's take for example AWS Lambda. "Lambda allows you to NOT think about servers. Which means you no longer have to deal with over/under capacity, deployments, scaling and fault tolerance, OS or language updates, metrics, and logging."
 
 [Quora: What is Serverless Computing?](https://www.quora.com/What-is-serverless-computing)
 
-## All in one solutions
+## Backend
 
 * [AppDrag](https://appdrag.com) - Cloud Backend with SQL database and serverless API builder, Cloud CMS with domain management and email marketing tools
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
