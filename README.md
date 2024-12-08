@@ -2,7 +2,7 @@
 
 # :cloud:   Machine Learning Deploy For Google Cloud Platform
 
-A curated list of awesome services, solutions and resources for serverless / nobackend applications.
+How to deploy machine learning for GCP
 
 ***“No server is easier to manage than no server”***
 
