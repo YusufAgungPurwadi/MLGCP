@@ -1,4 +1,4 @@
-<img src="(https://github.com/YusufAgungPurwadi/MLGCP-Api/blob/main/Google-Cloud-Platform.jpg)" align="right" height=200>
+<img src="https://github.com/YusufAgungPurwadi/MLGCP-Api/blob/main/Google-Cloud-Platform.jpg" align="right" height=200>
 
 # :cloud:   Machine Learning Deploy For Google Cloud Platform
 
