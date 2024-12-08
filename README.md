@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/zq0LJAl.png" align="right" height=300>
+<img src="[http://i.imgur.com/zq0LJAl.png](https://github.com/YusufAgungPurwadi/MLGCP-Api/blob/main/Google-Cloud-Platform.jpg)" align="right" height=200>
 
 # :cloud: Awesome Serverless
 
