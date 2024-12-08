@@ -13,11 +13,9 @@ How to deploy machine learning for GCP
 - [Model Machine Learning](#Model-Machine-learning)
 
 ## Tampilan
-
+<img src= "https://github.com/YusufAgungPurwadi/MLGCP-Api/blob/main/Tampilan.png" align="center">
 > The phrase “serverless” doesn’t mean servers are no longer involved. It simply means that developers no longer have to think "that much" about them. Computing resources get used as services without having to manage around physical capacities or limits.
-> Let's take for example AWS Lambda. "Lambda allows you to NOT think about servers. Which means you no longer have to deal with over/under capacity, deployments, scaling and fault tolerance, OS or language updates, metrics, and logging."
-
-[Quora: What is Serverless Computing?](https://www.quora.com/What-is-serverless-computing)
+[Quora: Goole Cloud PLatform](https://www.quora.com/What-is-serverless-computing)
 
 ## Backend
 
